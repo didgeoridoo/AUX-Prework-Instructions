@@ -53,7 +53,7 @@ Your search tool is getting pretty sweet. Instead of keeping it all to yourself,
 
 ### Required functionality:
 - Plugin must accept any path to an external JSON file (assume proper file formatting) as an option
-- Plugin must accept a string identifying the desired output element as an option; e.g. if you want to output to <div id="output">, you should be able to set the output option to "#output" and have it work properly
+- Plugin must accept a string identifying the desired output element as an option; e.g. if you want to output to a div with ID "output", you should be able to set the output option to "#output" and have it work properly
 
 Sprint 5: Mustachio bashio (EXTRA CREDIT)
 -----------------
