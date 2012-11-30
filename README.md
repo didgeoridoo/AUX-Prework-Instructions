@@ -17,7 +17,7 @@ Build a web form that instantly (i.e. without pressing "submit") searches a cust
 
 ### Limitations:
 - No jQuery; raw JavaScript only
-- The address book data must be stored in JSON format
+- The address book data must be stored in JSON format inside your script
 - NO GLOBAL VARIABLES. Don't pollute the global namespace
 
 Sprint 2: Breaking up with a model
@@ -29,7 +29,7 @@ Note: This won't work without running a local server. If you're on a Mac, you're
 
 ### Limitations:
 - No jQuery; raw JavaScript only
-- The address book data must be stored in JSON format
+- The address book data must be stored in an external JSON file
 - NO GLOBAL VARIABLES. Don't pollute the global namespace
 
 Sprint 3: Holla for a $
