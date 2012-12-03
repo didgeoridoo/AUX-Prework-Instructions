@@ -45,8 +45,8 @@ Note: After you see how easy Ajax is with jQuery, you will DESPISE us for making
 - Element selectors
 - Event handlers
 - $.getJSON
-- $.each (see the jQuery documentation for guidance: api.jquery.com)
-- $.map (see the jQuery documentation for guidance: api.jquery.com)
+- $.each (see the jQuery documentation for guidance: http://api.jquery.com)
+- $.map (see the jQuery documentation for guidance: http://api.jquery.com)
 
 Sprint 4: Plug it in, plug it in
 -----------------
@@ -60,7 +60,7 @@ Your search tool is getting pretty sweet. Instead of keeping it all to yourself,
 Sprint 5: Mustachio bashio (EXTRA CREDIT)
 -----------------
 
-Use the mustache.js library to eliminate all HTML tags from your JavaScript code and put them in your HTML document where they belong.
+Use the mustache.js library (https://github.com/janl/mustache.js/) to eliminate all HTML tags from your JavaScript code and put them in your HTML document where they belong.
 
 During this sprint, feel free to add any styling or extra prettiness to your app. Just don't break the functionality!
 
