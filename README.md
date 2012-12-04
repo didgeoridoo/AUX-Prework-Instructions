@@ -37,7 +37,7 @@ Note: This won't work locally without running a local server. If you're on a Mac
 Sprint 3: Holla for a $
 -----------------
 
-Load in the jQuery library and "refactor" (i.e. reorganize & simplify) your code from Sprint 1 to incorporate space-saving selection, event attachment and utility functions from jQuery. Again, your tool should function exactly as before.
+Load in the jQuery library and "refactor" (i.e. reorganize & simplify) your code from Sprint 2 to incorporate space-saving selection, event attachment and utility functions from jQuery. Again, your tool should function exactly as before.
 
 Note: After you see how easy Ajax is with jQuery, you will DESPISE us for making you build it first in raw JS. You'll get over it.
 
