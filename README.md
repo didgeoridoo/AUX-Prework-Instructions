@@ -1,9 +1,9 @@
-AUX H2013: JavaScript Primer
+AUX Pre-Work: JavaScript Primer
 =================
 
 By now, you all have received a copy of Tim Wright's "Learning JavaScript". This book contains all the guidance you need to complete the following assignment. For each "sprint", create a new branch in git with a descriptive name (e.g. "add-jQuery"), and merge the code into the master branch when it is fully functional. If none of this makes any sense to you, check this out: http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging
 
-To deploy your code, create and push a branch called "gh-pages". This will automatically create a page that can be accessed at http://[your user name].github.com/[project name]. To update your gh-pages branch to your latest code, just merge in your master branch.
+To deploy your code, create and push a branch called "gh-pages". This will automatically create a page that can be accessed at http://[your user name].github.io/[project name]. To update your gh-pages branch to your latest code, just merge in your master branch.
 
 Sprint 1: Just make the damn thing work
 -----------------
